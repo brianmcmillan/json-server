@@ -1,0 +1,22 @@
+{
+  "name": "dataserver",
+  "version": "0.0.1",
+  "description": "API server running json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "json",
+    "mock",
+    "data",
+    "faker"
+  ],
+  "author": "Brian McMillan",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^3.0.1",
+    "lodash": "^3.10.1"
+  }
+}
